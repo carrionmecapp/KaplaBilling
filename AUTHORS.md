@@ -1,4 +1,4 @@
-# Licencia y Autoría — KaplaBilling
+# Licencia y Autoría — VoxiKam
 
 ## 📜 Licencia
 

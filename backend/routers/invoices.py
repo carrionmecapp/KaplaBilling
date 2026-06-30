@@ -1,4 +1,4 @@
-# KaplaBilling — SIP Class 4 Billing & Monitoring Platform
+# VoxiKam — SIP Class 4 Billing & Monitoring Platform
 # Copyright (c) 2026 Christopher Carrion — Sktcod Services
 # By Chisto · Sktcod Services · https://github.com/carrionmecapp
 # © 2026 – Todos los derechos reservados.
@@ -14,7 +14,7 @@ from auth import require_admin
 from database import get_db
 
 router = APIRouter()
-INVOICES_DIR = Path(os.getenv("INVOICES_DIR", "/opt/kaplabilling/invoices"))
+INVOICES_DIR = Path(os.getenv("INVOICES_DIR", "/opt/voxikam/invoices"))
 
 
 @router.get("")

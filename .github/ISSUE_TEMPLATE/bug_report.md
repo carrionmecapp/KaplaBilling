@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a problem with KaplaBilling
+about: Report a problem with VoxiKam
 title: '[BUG] '
 labels: bug
 assignees: carrionmecapp
@@ -19,7 +19,7 @@ What you expected to happen.
 
 **Environment**
 - OS: [e.g. Debian 12]
-- KaplaBilling version: [e.g. 2.2]
+- VoxiKam version: [e.g. 2.2]
 - Kamailio version: [e.g. 5.7]
 
 **Logs**
